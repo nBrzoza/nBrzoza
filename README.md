@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @nBrzoza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi and welcome to My GitHub Profile!
 
-<!---
-nBrzoza/nBrzoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 My name is ***Norbert*** and I am an ambitious Junior Developer from Poland
+
+### Curently im workin on: **[My Portfolio](https://github.com/nBrzoza/nBrzoza.tk/)**
+
