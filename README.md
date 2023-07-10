@@ -2,5 +2,5 @@
 
 ## 👋 My name is ***Norbert*** and I am an ambitious Junior Developer from Poland
 
-### Curently im workin on: **[My Portfolio](https://github.com/nBrzoza/nBrzoza.tk/)**
+### Curently I'm workin on: **[My Portfolio](https://github.com/nBrzoza/nBrzoza.tk/)**
 
