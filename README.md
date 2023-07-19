@@ -1,16 +1,3 @@
-# Hi and welcome to My GitHub Profile!
-## 👋 My name is ***Norbert*** and I am an ambitious Junior Developer from Poland
-### My Skills
-   - Python
-   - HTML
-   - PHP
-   - JavaScript (jQuery)
-   - CSS (Sass)
-
-
----
-### Curently I'm workin on: **[nbrzoza.tk](https://github.com/nBrzoza/nBrzoza.tk/)**
-
 ## Hi there! 👋
 
 I'm Norbert, a Junior Developer passionate about web 🕸️ and Artificial Intelligence 🤖.
