@@ -13,6 +13,7 @@ I'm Norbert, a Junior Developer passionate about web 🕸️ and Artificial Inte
   - CSS
 - Technologies: 
   - Django
+  - SvelteKit
   - Tensorflow (Python)
   - Pandas
   - PHPmailer
@@ -26,7 +27,7 @@ Here are a few projects I've worked on:
 - [nbrzoza.tk](https://github.com/nBrzoza/nBrzoza.tk): My person web site where I try to show my work and allow people to read about me!
 ---
 ### Work Experience
-- Currently I'm looking for my first IT job
+- September 2023 - Now : Junior implementation specialist/programmer at e-MSI
 ---
 ### Education
 
